@@ -6,7 +6,7 @@ vpc_name = "prod-vpc"
 
 # Variables for S3 module
 
-bucket_name = "hilltop-prod-bucket-01"
+bucket_name = "fren-prod-bucket-01"
 
 # Variables for EC2 Module
 
